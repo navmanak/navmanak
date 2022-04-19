@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navmanak
-- 👀 I’m interested in Competitive Coding, Machine Learning, AI and last but not least Web Development
+- 👀 I’m interested in Competitive Coding,Web Development
 - 🌱 I’m currently learning Machine Learning, Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
